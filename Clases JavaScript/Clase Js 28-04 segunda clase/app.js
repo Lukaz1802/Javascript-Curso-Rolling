@@ -21,4 +21,4 @@ console.log(frase.trim()) //Mostrar caracteres ignorando espacios.
 
 frase = frase.trim() //Elimina espacios iniciales en blanco.
 
-console.log(apellido.charAt(apellido.length -1));
+console.log(apellido.charAt(apellido.length - 1));
